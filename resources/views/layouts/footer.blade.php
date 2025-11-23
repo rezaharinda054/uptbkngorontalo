@@ -29,7 +29,7 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">UPT BKN Gorontalo.</strong></p>
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">UPSCPKP BKN Gorontalo.</strong></p>
     </div>
 
   </footer>

@@ -13,40 +13,39 @@
           <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
                 <li><a href="/profil/sejarah">Sejarah</a></li>
-                <li><a href="https://gorontalo.bkn.go.id/blog/index.php/profil-upt-bkn-gorontalo/tugas-pokok-dan-fungsi/">Tupoksi</a></li>
+                <li><a href="/tupoksi">Tupoksi</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Informasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-                <li><a href="#">Berita</a></li>
-                <li><a href="#">Pengumuman</a></li>
-                <li><a href="#">Artikel</a></li>
-                <li><a href="#">Video</a></li>
+                <li><a href="berita">Berita</a></li>
+                <li><a href="pengumuman">Pengumuman</a></li>
+                <li><a href="artikel">Artikel</a></li>
+                <li><a href="video">Video</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-                <li><a href="#">Ujian Dinas</a></li>
-                <li><a href="#">Simulasi CAT BKN</a></li>
-                <li><a href="#">Seleksi Selain ASN</a></li>
-                <li><a href="#">Seleksi CPNS</a></li>
-                <li><a href="#">Seleksi Sekolah Kedinasan</a></li>
-                <li><a href="#">CAT</a></li>
-                <li><a href="#">Assesment</a></li>
-                <li><a href="#">Pemanfaatan Stasiun CAT</a></li>
-                
+                <li><a href="/ujian_kedinasan">Ujian Dinas</a></li>
+                <li><a href="/simulasi_cat_bkn">Simulasi CAT BKN</a></li>
+                <li><a href="/seleksi_selain_asn">Seleksi Selain ASN</a></li>
+                <li><a href="/seleksi_cpns">Seleksi CPNS</a></li>
+                <li><a href="/seleksi_sekolah_kedinasan">Seleksi Sekolah Kedinasan</a></li>
+                <li><a href="/cat">CAT</a></li>
+                <li><a href="/assesment">Assesment</a></li>
+                <li><a href="/pemanfaatan_stasiun_cat">Pemanfaatan Stasiun CAT</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Layanan Publik</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-                <li><a href="#">Layanan Konsultasi</a></li>
-                <li><a href="#">Standar Pelayanan Kanre XI BKN</a></li>
-                <li><a href="#">Maklumat Pelayanan Kanreg XI</a></li>
+                <li><a href="layanan_konsultasi">Layanan Konsultasi</a></li>
+                <li><a href="standar_pelayanan_kanrexi_bkn">Standar Pelayanan Kanre XI BKN</a></li>
+                <li><a href="maklumat_pelayanan_kanreg_xi">Maklumat Pelayanan Kanreg XI</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>IKM</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-                <li><a href="#">Hasil Survey</a></li>
+                <li><a href="/ikm">Hasil Survey</a></li>
             </ul>
           </li>
         </ul>
