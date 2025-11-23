@@ -1,88 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-  <meta charset="utf-8">
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <title>UPSCPKP BKN Gorontalo</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="">
-
-  <!-- Favicons -->
-  <link href="assets/img/LogoBKN.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Fonts -->
-  <link href="https://fonts.googleapis.com" rel="preconnect">
-  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-
-  <!-- Vendor CSS Files -->
-  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
-  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
-  <!-- Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
-
-</head>
-
-<body class="index-page">
-
-  <header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
-
-      <a  class="logo d-flex align-items-center" >
-         <span><img src="assets/img/LogoBKN.png"></span>
-        <h1 class="sitename">UPSCPKP BKN Gorontalo</h1>
-      </a>
-
-      <nav id="navmenu" class="navmenu">
-        <ul>
-          <li><a href="#hero" class="active">Beranda</a></li>
-          <li><a href="https://gorontalo.bkn.go.id/blog/index.php/portofolio/" class="active">Portofolio</a></li>
-          <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-                <li><a href="https://gorontalo.bkn.go.id/blog/index.php/profil-upt-bkn-gorontalo/sejarah-upn-bkn-gorontalo/">Sejarah</a></li>
-                <li><a href="https://gorontalo.bkn.go.id/blog/index.php/profil-upt-bkn-gorontalo/tugas-pokok-dan-fungsi/">Tupoksi</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Informasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-                <li><a href="#">Berita</a></li>
-                <li><a href="#">Pengumuman</a></li>
-                <li><a href="#">Artikel</a></li>
-                <li><a href="#">Video</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-                <li><a href="#">CAT</a></li>
-                <li><a href="#">Assesment</a></li>
-                <li><a href="#">Pemanfaatan Stasiun CAT</a></li>
-                <li><a href="#">Seleksi Selain ASN</a></li>
-            </ul>
-          </li>
-          <li class="dropdown"><a href="#"><span>Layanan Publik</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
-            <ul>
-                <li><a href="#">Seleksi CPNS</a></li>
-                <li><a href="#">Seleksi Sekolah Kedinasan</a></li>
-                <li><a href="#">Ujian Dinas</a></li>
-                <li><a href="#">Simulasi CAT BKN</a></li>
-                <li><a href="#">Seleksi Selain ASN</a></li>
-                <li><a href="#">Layanan Konsultasi</a></li>
-            </ul>
-          </li>
-          <li><a href="#">IKM</a></li>
-        </ul>
-        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
-      </nav>
-    </div>
-  </header>
-
-  <main class="main">
+<main class="main">
 
     <!-- Hero Section -->
     <section id="hero" class="hero section dark-background">
@@ -373,82 +289,20 @@
     <section id="testimonials" class="testimonials section">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2>Testimonials</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
-    </section><!-- /Testimonials Section -->
-  </main>
-
-  <footer id="footer" class="footer dark-background">
-
-    <div class="container footer-top">
-      <div class="row gy-3 text-center">
-        <div class="footer-about">
-          <div class="footer-contact">
-            <div class="map-responsive">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15958.582105830093!2d123.08278501651611!3d0.5332450380332502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32792b5f8a46d645%3A0xbf5b489752f99fca!2sKantor%20UPT%20BKN%20Gorontalo!5e0!3m2!1sid!2sid!4v1763723100362!5m2!1sid!2sid" 
+        <h2>Titik Lokasi</h2>
+        <div class="map-responsive">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15958.582105830093!2d123.08278501651611!3d0.5332450380332502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32792b5f8a46d645%3A0xbf5b489752f99fca!2sKantor%20UPT%20BKN%20Gorontalo!5e0!3m2!1sid!2sid!4v1763723100362!5m2!1sid!2sid" 
                 width="600"
                 height="450"
                 allowfullscreen="" 
                 loading="lazy" 
                 referrerpolicy="no-referrer-when-downgrade">
-              </iframe>
-            </div>
-            <p><i class="bi bi-geo-alt"></i> Jl. Sultan Amay, Tamalate, Kec. Kota Tim., Kota Gorontalo, Gorontalo 96135</p>
-              <p><strong><i class="bi bi-envelope"></i></strong> <span>uptbkngorontalo@gmail.com</span></p>
-            <br>
-            <hr>
-          </div><br>
-          <div class="d-flex justify-content-center">
-            <a href="https://www.facebook.com/uptbkngorontalo" class="mx-3 text-primary" target="_blank" rel="noopener" aria-label="Facebook">
-              <i class="bi bi-facebook" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://www.youtube.com/@uptbkngorontalo" class="mx-3 text-danger" target="_blank" rel="noopener" aria-label="Facebook">
-              <i class="bi bi-youtube" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://x.com/uptbkngorontalo" class="mx-3 text-info" target="_blank" rel="noopener" aria-label="Twitter">
-              <i class="bi bi-twitter" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://www.instagram.com/uptbkn_gorontalo/" class="mx-3 text-pink" target="_blank" rel="noopener" aria-label="Instagram">
-              <i class="bi bi-instagram" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://www.tiktok.com/@uptbkngorontalo" class="mx-3 text-white" target="_blank" rel="noopener" aria-label="Facebook">
-              <i class="bi bi-tiktok" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://www.threads.com/@uptbkn_gorontalo" class="mx-3 text-secondary" target="_blank" rel="noopener" aria-label="Facebook">
-              <i class="bi bi-threads" style="font-size: 1.5rem;"></i>
-            </a>
-          </div>
+            </iframe>
         </div>
+        <p><i class="bi bi-geo-alt"></i> Jl. Sultan Amay, Tamalate, Kec. Kota Tim., Kota Gorontalo, Gorontalo 96135</p>
+        <p><strong><i class="bi bi-envelope"></i></strong> <span>uptbkngorontalo@gmail.com</span></p>
+      </div><!-- End Section Title -->
+    </section><!-- /Testimonials Section -->
+  </main>
 
-      </div>
-    </div>
-
-    <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">UPT BKN Gorontalo.</strong></p>
-    </div>
-
-  </footer>
-
-  <!-- Scroll Top -->
-  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-  <!-- Preloader -->
-  <div id="preloader"></div>
-
-  <!-- Vendor JS Files -->
-  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/vendor/php-email-form/validate.js"></script>
-  <script src="assets/vendor/aos/aos.js"></script>
-  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
-  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
-  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-
-  <!-- Main JS File -->
-  <script src="assets/js/main.js"></script>
-
-</body>
-
-</html>
+  
