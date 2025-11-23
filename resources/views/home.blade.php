@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>UPSCPKP BKN Gorontalo</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/LogoBKN.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center fixed-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a  class="logo d-flex align-items-center" >
+         <span><img src="assets/img/LogoBKN.png"></span>
+        <h1 class="sitename">UPSCPKP BKN Gorontalo</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Beranda</a></li>
+          <li><a href="https://gorontalo.bkn.go.id/blog/index.php/portofolio/" class="active">Portofolio</a></li>
+          <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+                <li><a href="https://gorontalo.bkn.go.id/blog/index.php/profil-upt-bkn-gorontalo/sejarah-upn-bkn-gorontalo/">Sejarah</a></li>
+                <li><a href="https://gorontalo.bkn.go.id/blog/index.php/profil-upt-bkn-gorontalo/tugas-pokok-dan-fungsi/">Tupoksi</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Informasi</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+                <li><a href="#">Berita</a></li>
+                <li><a href="#">Pengumuman</a></li>
+                <li><a href="#">Artikel</a></li>
+                <li><a href="#">Video</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+                <li><a href="#">CAT</a></li>
+                <li><a href="#">Assesment</a></li>
+                <li><a href="#">Pemanfaatan Stasiun CAT</a></li>
+                <li><a href="#">Seleksi Selain ASN</a></li>
+            </ul>
+          </li>
+          <li class="dropdown"><a href="#"><span>Layanan Publik</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+            <ul>
+                <li><a href="#">Seleksi CPNS</a></li>
+                <li><a href="#">Seleksi Sekolah Kedinasan</a></li>
+                <li><a href="#">Ujian Dinas</a></li>
+                <li><a href="#">Simulasi CAT BKN</a></li>
+                <li><a href="#">Seleksi Selain ASN</a></li>
+                <li><a href="#">Layanan Konsultasi</a></li>
+            </ul>
+          </li>
+          <li><a href="#">IKM</a></li>
+        </ul>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
+
+        <div class="carousel-item active">
+          <img src="assets/img/Gedung.png" alt="">
+          <div class="carousel-container">
+            <h2>Selamat Datang</h2>
+            <h2 class="h2upt">Di Website<span style="color:#269dd8;"> UPSCPKP BKN GORONTALO</span></h2>
+            <!-- <a href="#infopublik" class="btn-get-started">Get Started</a> -->
+          </div>
+        </div><!-- End Carousel Item -->
+
+        <div class="carousel-item">
+          <img src="assets/img/FotoUjianCAT.jpg" alt="">
+          <div class="carousel-container">
+            <h2>Dibuka Pendaftaran Sekolah Kedinasan!</h2>
+            <h3 class="h2upt">Daftar sekarang melalui <b><a href="https://dikdin.bkn.go.id">dikdin.bkn.go.id</a></b></h3>
+          </div>
+        </div><!-- End Carousel Item -->
+
+        <div class="carousel-item">
+          <img src="assets/img/Gedung2.png" alt="">
+          <div class="carousel-container">
+            <h2>Profiling ASN</h2>
+          </div>
+        </div><!-- End Carousel Item -->
+
+        <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
+        </a>
+
+        <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon bi bi-chevron-right" aria-hidden="true"></span>
+        </a>
+
+        <ol class="carousel-indicators"></ol>
+
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- Featured Services Section -->
+    <section id="infopublik" class="infopublik section dark-background">
+
+      <section id="portfolio" class="portfolio section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>INFO PUBLIK TERBARU</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">Semua</li>
+            <li data-filter=".filter-product">Pengumuman</li>
+            <li data-filter=".filter-branding">Berita</li>
+          </ul><!-- End Portfolio Filters -->
+
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/portfolio/cat.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">CAT</h4>
+                <p class="text-danger">Fasilitasi Ujian Penyesuaian Kenaikan Pangkat di Lingkungan Kemendukbangga/BKKBN & BPK di Titik Lokasi UPT BKN Gorontalo</p>
+                <a href="assets/img/portfolio/cat.png" title="Fasilitasi Ujian Penyesuaian Kenaikan Pangkat di Lingkungan Kemendukbangga/BKKBN & BPK di Titik Lokasi UPT BKN Gorontalo" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/2025/09/12/fasilitasi-ujian-penyesuaian-kenaikan-pangkat-di-lingkungan-kemendukbangga-bkkbn-bpk-di-titik-lokasi-upt-bkn-gorontalo/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/portfolio/pengumuman1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">Pengumuman</h4>
+                <p class="text-danger">Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo</p>
+                <a href="assets/img/portfolio/pengumuman1.png" title="Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/2025/08/07/jadwal-seleksi-kompetensi-dasarsekolah-kedinasan-tahun-2025titik-lokasi-upt-bkn-gorontalo/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/portfolio/cat1.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">CAT</h4>
+                <p class="text-danger">Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo</p>
+                <a href="assets/img/portfolio/cat1.png" title="Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/kegiatan/cat/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/portfolio/pengumuman2.jpg" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">Pengumuman</h4>
+                <p class="text-danger">Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo</p>
+                <a href="assets/img/portfolio/pengumuman2.jpg" title="Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/berita/pengumuman/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/portfolio/cat2.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">CAT</h4>
+                <p class="text-danger">BPK RI, Kejaksaan RI, BPS RI, dan Setjen DPD RI melaksanakan Ujian Dinas dan Kenaikan Pangkat dengan Sistem CAT</p>
+                <a href="assets/img/portfolio/cat2.png" title="BPK RI, Kejaksaan RI, BPS RI, dan Setjen DPD RI melaksanakan Ujian Dinas dan Kenaikan Pangkat dengan Sistem CAT" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/kegiatan/cat/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <img src="assets/img/portfolio/cat3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">CAT</h4>
+                <p class="text-danger">UJIAN DINAS TINGKAT I BNN TAHUN 2022</p>
+                <a href="assets/img/portfolio/cat3.png" title="UJIAN DINAS TINGKAT I BNN TAHUN 2022" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/2022/07/06/ujian-dinas-tingkat-i-bnn-tahun-2022/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <img src="assets/img/portfolio/pengumuman3.png" class="img-fluid" alt="">
+              <div class="portfolio-info">
+                <h4 class="text-primary">Pengumuman</h4>
+                <p class="text-danger">Jadwal SKD Sekolah Kedinasan Tahun 2022 titik lokasi UPT BKN Gorontalo</p>
+                <a href="assets/img/portfolio/pengumuman3.png" title="Jadwal SKD Sekolah Kedinasan Tahun 2022 titik lokasi UPT BKN Gorontalo" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                <a href="https://gorontalo.bkn.go.id/blog/index.php/2022/06/04/jadwal-skd-sekolah-kedinasan-tahun-2022-titik-lokasi-upt-bkn-gorontalo/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+
+          </div><!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Portfolio Section -->
+
+    </section><!-- /Featured Services Section -->
+
+
+    <!-- Stats Section -->
+    <section id="stats" class="stats section light-background">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Clients</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Projects</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Hours Of Support</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Workers</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Stats Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Services</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-briefcase icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="service-details.html" class="stretched-link">Lorem Ipsum</a></h4>
+                <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-card-checklist icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="service-details.html" class="stretched-link">Dolor Sitema</a></h4>
+                <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-bar-chart icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="service-details.html" class="stretched-link">Sed ut perspiciatis</a></h4>
+                <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="400">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-binoculars icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="service-details.html" class="stretched-link">Magni Dolores</a></h4>
+                <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="500">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-brightness-high icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="service-details.html" class="stretched-link">Nemo Enim</a></h4>
+                <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="600">
+            <div class="service-item d-flex position-relative h-100">
+              <i class="bi bi-calendar4-week icon flex-shrink-0"></i>
+              <div>
+                <h4 class="title"><a href="service-details.html" class="stretched-link">Eiusmod Tempor</a></h4>
+                <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              </div>
+            </div>
+          </div><!-- End Service Item -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Services Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="call-to-action section dark-background">
+
+      <img src="assets/img/cta-bg.jpg" alt="">
+
+      <div class="container">
+        <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-xl-10">
+            <div class="text-center">
+              <h3>Call To Action</h3>
+              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+              <a class="cta-btn" href="#">Call To Action</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Call To Action Section -->
+
+
+    <!-- Testimonials Section -->
+    <section id="testimonials" class="testimonials section">
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Testimonials</h2>
+        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      </div><!-- End Section Title -->
+    </section><!-- /Testimonials Section -->
+  </main>
+
+  <footer id="footer" class="footer dark-background">
+
+    <div class="container footer-top">
+      <div class="row gy-3 text-center">
+        <div class="footer-about">
+          <div class="footer-contact">
+            <div class="map-responsive">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15958.582105830093!2d123.08278501651611!3d0.5332450380332502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x32792b5f8a46d645%3A0xbf5b489752f99fca!2sKantor%20UPT%20BKN%20Gorontalo!5e0!3m2!1sid!2sid!4v1763723100362!5m2!1sid!2sid" 
+                width="600"
+                height="450"
+                allowfullscreen="" 
+                loading="lazy" 
+                referrerpolicy="no-referrer-when-downgrade">
+              </iframe>
+            </div>
+            <p><i class="bi bi-geo-alt"></i> Jl. Sultan Amay, Tamalate, Kec. Kota Tim., Kota Gorontalo, Gorontalo 96135</p>
+              <p><strong><i class="bi bi-envelope"></i></strong> <span>uptbkngorontalo@gmail.com</span></p>
+            <br>
+            <hr>
+          </div><br>
+          <div class="d-flex justify-content-center">
+            <a href="https://www.facebook.com/uptbkngorontalo" class="mx-3 text-primary" target="_blank" rel="noopener" aria-label="Facebook">
+              <i class="bi bi-facebook" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="https://www.youtube.com/@uptbkngorontalo" class="mx-3 text-danger" target="_blank" rel="noopener" aria-label="Facebook">
+              <i class="bi bi-youtube" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="https://x.com/uptbkngorontalo" class="mx-3 text-info" target="_blank" rel="noopener" aria-label="Twitter">
+              <i class="bi bi-twitter" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="https://www.instagram.com/uptbkn_gorontalo/" class="mx-3 text-pink" target="_blank" rel="noopener" aria-label="Instagram">
+              <i class="bi bi-instagram" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="https://www.tiktok.com/@uptbkngorontalo" class="mx-3 text-white" target="_blank" rel="noopener" aria-label="Facebook">
+              <i class="bi bi-tiktok" style="font-size: 1.5rem;"></i>
+            </a>
+            <a href="https://www.threads.com/@uptbkn_gorontalo" class="mx-3 text-secondary" target="_blank" rel="noopener" aria-label="Facebook">
+              <i class="bi bi-threads" style="font-size: 1.5rem;"></i>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="container copyright text-center mt-4">
+      <p>© <span>Copyright</span> <strong class="px-1 sitename">UPT BKN Gorontalo.</strong></p>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
