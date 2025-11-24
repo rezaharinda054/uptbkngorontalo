@@ -9,23 +9,24 @@
           <img src="assets/img/Gedung.png" alt="">
           <div class="carousel-container">
             <h2>Selamat Datang</h2>
-            <h2 class="h2upt">Di Website<span style="color:#269dd8;"> UPSCPKP BKN GORONTALO</span></h2>
+            <h2 class="h2upt">Di Website<span style="color:#66beeb;"> UPSCPKP BKN GORONTALO</span></h2>
             <!-- <a href="#infopublik" class="btn-get-started">Get Started</a> -->
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="assets/img/FotoUjianCAT.jpg" alt="">
+          <img src="assets/img/bg-header/pembukaanproasn.jpg" alt="">
           <div class="carousel-container">
-            <h2>Dibuka Pendaftaran Sekolah Kedinasan!</h2>
-            <h3 class="h2upt">Daftar sekarang melalui <b><a href="https://dikdin.bkn.go.id">dikdin.bkn.go.id</a></b></h3>
+            <h2 style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Pembukaan Profiling ASN 2025</h2>
+            <h3 class="h2upt"><b><a href="#">Selanjutnya</a></b></h3>
           </div>
         </div><!-- End Carousel Item -->
 
         <div class="carousel-item">
-          <img src="assets/img/Gedung2.png" alt="">
+          <img src="assets/img/bg-header/peresmiangedung.png" alt="">
           <div class="carousel-container">
-            <h2>Profiling ASN</h2>
+            <h2 style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Peresmian Gedung</h2>
+            <h2 class="h2upt"><span style="color:#66beeb;"> UPSCPKP BKN GORONTALO</span></h2>
           </div>
         </div><!-- End Carousel Item -->
 
