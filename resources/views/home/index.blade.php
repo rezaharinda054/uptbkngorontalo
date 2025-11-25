@@ -6,10 +6,11 @@
       <div id="hero-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-interval="5000">
 
         <div class="carousel-item active">
-          <img src="assets/img/Gedung.png" alt="">
+          <img src="assets/img/bg-header/banner.png" alt="">
           <div class="carousel-container">
-            <h2>Selamat Datang</h2>
+            <h2 style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">Selamat Datang</h2>
             <h2 class="h2upt">Di Website<span style="color:#66beeb;"> UPSCPKP BKN GORONTALO</span></h2>
+            <h4 style="text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); color:#f3f2c0"><span><i>#BKNBapaknyaParaASN</i></span></h4>
             <!-- <a href="#infopublik" class="btn-get-started">Get Started</a> -->
           </div>
         </div><!-- End Carousel Item -->
@@ -65,7 +66,7 @@
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/portfolio/cat.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/cat.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">CAT</h4>
                 <p class="text-danger">Fasilitasi Ujian Penyesuaian Kenaikan Pangkat di Lingkungan Kemendukbangga/BKKBN & BPK di Titik Lokasi UPT BKN Gorontalo</p>
@@ -75,7 +76,7 @@
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <img src="assets/img/portfolio/pengumuman1.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/pengumuman1.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Pengumuman</h4>
                 <p class="text-danger">Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo</p>
@@ -85,7 +86,7 @@
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/portfolio/cat1.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/cat1.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">CAT</h4>
                 <p class="text-danger">Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo</p>
@@ -95,7 +96,7 @@
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <img src="assets/img/portfolio/pengumuman2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/pengumuman2.jpg" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Pengumuman</h4>
                 <p class="text-danger">Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo</p>
@@ -105,7 +106,7 @@
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/portfolio/cat2.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/cat2.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">CAT</h4>
                 <p class="text-danger">BPK RI, Kejaksaan RI, BPS RI, dan Setjen DPD RI melaksanakan Ujian Dinas dan Kenaikan Pangkat dengan Sistem CAT</p>
@@ -115,7 +116,7 @@
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
-              <img src="assets/img/portfolio/cat3.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/cat3.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">CAT</h4>
                 <p class="text-danger">UJIAN DINAS TINGKAT I BNN TAHUN 2022</p>
@@ -125,7 +126,7 @@
             </div><!-- End Portfolio Item -->
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
-              <img src="assets/img/portfolio/pengumuman3.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/pengumuman3.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Pengumuman</h4>
                 <p class="text-danger">Jadwal SKD Sekolah Kedinasan Tahun 2022 titik lokasi UPT BKN Gorontalo</p>
@@ -200,7 +201,7 @@
 
         <div class="row gy-4">
 
-          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100" style="box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; padding:5px;">
             <div class="service-item d-flex position-relative h-100">
               <i class="bi bi-briefcase icon flex-shrink-0"></i>
               <div>

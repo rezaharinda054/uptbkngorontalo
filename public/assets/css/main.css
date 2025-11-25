@@ -52,7 +52,7 @@ Abu abu : #c9caca
 }
 
 .dark-background {
-  --background-color: #565558;
+  --background-color: #646d70;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #cec0c0;
@@ -2515,6 +2515,7 @@ section,
     overflow: hidden;
     width: 100%;
     max-width: 600px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     }
 .map-responsive iframe {
     position: absolute;
@@ -2524,5 +2525,9 @@ section,
     height: 100%;
     border: none;
     }
+
+.img-box{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 
 
