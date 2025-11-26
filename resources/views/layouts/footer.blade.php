@@ -10,17 +10,8 @@
             <a href="https://www.youtube.com/@uptbkngorontalo" class="mx-3 text-danger" target="_blank" rel="noopener" aria-label="Facebook">
               <i class="bi bi-youtube" style="font-size: 1.5rem;"></i>
             </a>
-            <a href="https://x.com/uptbkngorontalo" class="mx-3 text-info" target="_blank" rel="noopener" aria-label="Twitter">
-              <i class="bi bi-twitter" style="font-size: 1.5rem;"></i>
-            </a>
             <a href="https://www.instagram.com/uptbkn_gorontalo/" class="mx-3 text-pink" target="_blank" rel="noopener" aria-label="Instagram">
               <i class="bi bi-instagram" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://www.tiktok.com/@uptbkngorontalo" class="mx-3 text-white" target="_blank" rel="noopener" aria-label="Facebook">
-              <i class="bi bi-tiktok" style="font-size: 1.5rem;"></i>
-            </a>
-            <a href="https://www.threads.com/@uptbkn_gorontalo" class="mx-3 text-secondary" target="_blank" rel="noopener" aria-label="Facebook">
-              <i class="bi bi-threads" style="font-size: 1.5rem;"></i>
             </a>
           </div>
         </div>
