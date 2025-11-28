@@ -1,9 +1,9 @@
-<footer id="footer" class="footer dark-background">
+<footer id="footer" class="footer">
 
     <div class="container footer-top">
       <div class="row gy-3 text-center">
         <div class="footer-about">
-          <div class="d-flex justify-content-center">
+          <div class="d-flex justify-content-center h2upt">
             <a href="https://www.facebook.com/uptbkngorontalo" class="mx-3 text-primary" target="_blank" rel="noopener" aria-label="Facebook">
               <i class="bi bi-facebook" style="font-size: 1.5rem;"></i>
             </a>
@@ -19,8 +19,8 @@
       </div>
     </div>
 
-    <div class="container copyright text-center mt-4">
-      <p>© <span>Copyright</span> <strong class="px-1 sitename">UPSCPKP BKN Gorontalo.</strong></p>
+    <div class="container copyright text-center">
+      <p class="h2upt">© <span>Copyright</span> <strong class="px-1 sitename">UPSCPKP BKN Gorontalo.</strong></p>
     </div>
 
   </footer>

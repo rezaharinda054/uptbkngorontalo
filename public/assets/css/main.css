@@ -52,7 +52,7 @@ Abu abu : #c9caca
 }
 
 .dark-background {
-  --background-color: #646d70;
+  --background-color: #646d7093;
   --default-color: #ffffff;
   --heading-color: #ffffff;
   --surface-color: #cec0c0;
@@ -190,6 +190,11 @@ h6 {
 
 .h2upt{
   color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.h2upt-footer{
+  color: #de1d5e;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
@@ -436,7 +441,7 @@ h6 {
 --------------------------------------------------------------*/
 .footer {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-color: #1a6f99;
   font-size: 14px;
   position: relative;
 }
@@ -2528,6 +2533,10 @@ section,
 
 .img-box{
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.bg-content{
+  background: linear-gradient(90deg,rgba(178, 206, 235, 1) 0%, rgba(219, 211, 211, 1) 87%);
 }
 
 
