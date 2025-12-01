@@ -12,7 +12,7 @@
           <li><a href="portofolio" class="active">Portofolio</a></li>
           <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
-                <li><a href="/profil/sejarah">Sejarah</a></li>
+                <li><a href="/sejarah">Sejarah</a></li>
                 <li><a href="/tupoksi">Tupoksi</a></li>
             </ul>
           </li>
@@ -20,7 +20,6 @@
             <ul>
                 <li><a href="berita">Berita</a></li>
                 <li><a href="pengumuman">Pengumuman</a></li>
-                <li><a href="artikel">Artikel</a></li>
                 <li><a href="video">Video</a></li>
             </ul>
           </li>

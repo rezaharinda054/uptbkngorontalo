@@ -104,6 +104,24 @@ Route::get('/berita', function () {
     ]);
 });
 
+Route::get('/berita-page2', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-page2/index'
+    ]);
+});
+
+Route::get('/berita-page3', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-page3/index'
+    ]);
+});
+
+Route::get('/berita-page4', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-page4/index'
+    ]);
+});
+
 Route::get('/artikel', function () {
     return view('layouts/wrapper',[
         'content' => 'artikel/index'
