@@ -23,166 +23,11 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/nov2025/udin5nov.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/okt2025/pancasila9okt.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                  <a href="#">UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</a>
-              </h2>
-
-              <div class="meta-top">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>5 November, 2025</a></li>
-                </ul>
-              </div>
-
-              <div class="content">
-                <p>
-                  Gorontalo, 5 November 2025 — UPT BKN Gorontalo memfasilitasi pelaksanaan Ujian Dinas dan Ujian Penyesuaian Kenaikan Pangkat (UPKP) bagi Pegawai Negeri Sipil (PNS) di Lingkungan...
-                </p>
-              </div>
-
-              <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article class="d-flex flex-column">
-
-              <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/cact31okt.png" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a>
-              </h2>
-
-              <div class="meta-top">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>31 Oktober, 2025</a></li>
-                </ul>
-              </div>
-
-              <div class="content">
-                <p>
-                  Gorontalo, 31 Oktober 2025 – UPT BKN Gorontalo melaksanakan fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi Pegawai Negeri Sipil (PNS) di Lingkungan Kementerian Kependudukan dan Pembangunan Keluarga (Kemendukbangga) serta Badan Karantina Indonesia (Barantin)...
-                </p>
-              </div>
-
-              <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article class="d-flex flex-column">
-
-              <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/udin30okt.png" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a>
-              </h2>
-
-              <div class="meta-top">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>31 Oktober, 2025</a></li>
-                </ul>
-              </div>
-
-              <div class="content">
-                <p>
-                  30 Oktober 2025, UPT BKN Gorontalo kembali menyelenggarakan Ujian Dinas Tingkat I, Tingkat II, dan Ujian Penyesuaian Ijazah bagi Pegawai Negeri Sipil (PNS) di Lingkungan Pemerintah Kabupaten Pohuwato. Kegiatan ini diikuti oleh 48 peserta dan menggunakan metode Computer Assisted Test (CAT) BKN...
-                </p>
-              </div>
-
-              <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article class="d-flex flex-column">
-
-              <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/lptui24okt.png" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="title">
-                <a href="blog-details.html">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a>
-              </h2>
-
-              <div class="meta-top">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>24 Oktober, 2025</a></li>
-                </ul>
-              </div>
-
-              <div class="content">
-                <p>
-                  23 Oktober 2025, Lembaga Psikologi Terapan Universitas Indonesia (LPTUI) melaksanakan Uji Coba Tes Kognitif dan Morscale yang diikuti oleh peserta dari Pemerintah Provinsi Gorontalo, Pemerintah Kota Gorontalo, dan Pemerintah Kabupaten Bone Bolango.
-                  Kegiatan ini diselenggarakan...
-                </p>
-              </div>
-
-              <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article class="d-flex flex-column">
-
-              <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/ikd24okt.png" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="title">
-                <a href="blog-details.html">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</a>
-              </h2>
-
-              <div class="meta-top">
-                <ul>
-                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>24 Oktober, 2025</a></li>
-                </ul>
-              </div>
-
-              <div class="content">
-                <p>
-                  Dalam rangka mendukung percepatan peningkatan Nilai Indeks Kualitas Data (IKD) Aparatur Sipil Negara (ASN) serta memperkuat pemenuhan Database Profil ASN secara komprehensif, Direktorat Pengeloaan Data dan Penyajian Informasi (PDPI) ASN Badan Kepegawaian Negara menyelenggarakan kegiatan...
-              </div>
-
-              <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
-              </div>
-
-            </article>
-          </div><!-- End post list item -->
-
-          <div class="col-lg-4">
-            <article class="d-flex flex-column">
-
-              <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/cat9okt.png" alt="" class="img-fluid">
-              </div>
-
-              <h2 class="title">
-                <a href="blog-details.html">Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah</a>
+                  <a href="#">Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai</a>
               </h2>
 
               <div class="meta-top">
@@ -194,7 +39,161 @@
 
               <div class="content">
                 <p>
-                  Gorontalo, 6 Oktober 2025, Badan Kepegawaian Negara telah memfasilitasi pelaksanaan Ujian Dinas Dan Ujian Penyesuaian Ijazah di Lingkungan Pemerintah Kabupaten Bone Bolango. Ujian dimulai pukul 09.00 WITa. Ujian Dinas Tingkat I dan II di Lingkungan Kabupaten Bone Bolango Tahun 2025 dihadiri oleh...
+                  Gorontalo, Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai, Rabu (01/10/2025) bertempat di Halaman UPT BKN Gorontalo. Upacara ini dipimpin langsung oleh Kepala UPT, Iskandar Zulkarnain Hadju yang bertindak sebagai inspektur upacara...
+                </p>
+              </div>
+
+              <div class="read-more mt-auto align-self-end">
+                <a href="blog-details.html">Selanjutnya</a>
+              </div>
+
+            </article>
+          </div><!-- End post list item -->
+
+          <div class="col-lg-4">
+            <article class="d-flex flex-column">
+
+              <div class="post-img">
+                <img src="assets/img/bg-content/berita/sep2025/udin25sep.png" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="title">
+                <a href="blog-details.html">Pelaksanaan Ujian Dinas & UPKP di Lingkungan KEMENDIKTI SAINTEK & KEMENTAN, serta Penyerahan Surat Tugas Pegawai</a>
+              </h2>
+
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>17 September, 2025</a></li>
+                </ul>
+              </div>
+
+              <div class="content">
+                <p>
+                  17 September 2025, Badan Kepegawaian Negara memfasilitasi Ujian Dinas dan Ujian Penyesuaian Ijazah di Lingkungan Kementerian Pendidikan Tinggi, Sains, dan Teknologi untuk 12 peserta dari total 13, sekaligus pelaksanaan Ujian Dinas Penyesuaian Ijazah di Lingkungan Kementerian Pertanian untuk 1 peserta....
+                </p>
+              </div>
+
+              <div class="read-more mt-auto align-self-end">
+                <a href="blog-details.html">Selanjutnya</a>
+              </div>
+
+            </article>
+          </div><!-- End post list item -->
+
+          <div class="col-lg-4">
+            <article class="d-flex flex-column">
+
+              <div class="post-img">
+                <img src="assets/img/bg-content/berita/sep2025/ptbstmkg16sep.png" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="title">
+                <a href="blog-details.html">Pelaksanaan Seleksi Lanjutan Penerimaan Taruna Baru (PTB) Sekolah Tinggi Meteorologi, Klimatologi, dan Geofisika (STMKG) TA. 2025</a>
+              </h2>
+
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>16 September, 2025</a></li>
+                </ul>
+              </div>
+
+              <div class="content">
+                <p>
+                  16 September 2025, Badan Kepegawaian Negara telah melaksanakan Seleksi Lanjutan Penerimaan Taruna Baru (PTB) Sekolah Tinggi Meteorologi, Klimatologi, dan Geofisika (STMKG) TA. 2025 dengan metode Computer Assisted Test (CAT) BKN. Kegiatan ini merupakan kelanjutan proses seleksi Penerimaan Taruna Baru STMKG....
+                </p>
+              </div>
+
+              <div class="read-more mt-auto align-self-end">
+                <a href="blog-details.html">Selanjutnya</a>
+              </div>
+
+            </article>
+          </div><!-- End post list item -->
+
+          <div class="col-lg-4">
+            <article class="d-flex flex-column">
+
+              <div class="post-img">
+                <img src="assets/img/bg-content/berita/sep2025/cat10sep.png" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="title">
+                <a href="blog-details.html">Fasilitasi Ujian Penyesuaian Kenaikan Pangkat di Lingkungan Kemendukbangga/BKKBN & BPK di Titik Lokasi UPT BKN Gorontalo</a>
+              </h2>
+
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>10 September, 2025</a></li>
+                </ul>
+              </div>
+
+              <div class="content">
+                <p>
+                  10 September 2025, Badan Kepegawaian Negara (BKN) memfasilitasi pelaksanaan Seleksi Pengembangan Karier di Lingkungan Kementerian Kependudukan dan Pembangunan Keluarga untuk dua peserta, sekaligus pelaksanaan Remedial Ujian Penyesuaian Kenaikan Pangkat (UPKP) di Lingkungan Badan Pemeriksa Keuangan RI untuk satu peserta dengan Metode Computer Assisted Test (CAT) BKN, di titik lokasi UPT BKN Gorontalo....
+                </p>
+              </div>
+
+              <div class="read-more mt-auto align-self-end">
+                <a href="blog-details.html">Selanjutnya</a>
+              </div>
+
+            </article>
+          </div><!-- End post list item -->
+
+          <div class="col-lg-4">
+            <article class="d-flex flex-column">
+
+              <div class="post-img">
+                <img src="assets/img/bg-content/berita/sep2025/udin9sep.png" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="title">
+                <a href="blog-details.html">Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo</a>
+              </h2>
+
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>9 september, 2025</a></li>
+                </ul>
+              </div>
+
+              <div class="content">
+                <p>
+                  9 September 2025, Dalam rangka mewujudkan Manajemen Aparatur Sipil Negara yang berbasis Sistem Merit Badan Kepegawaian Negara (BKN) berkolaborasi bersama Pemerintah Kabupaten Boalemo melaksanakan Ujian Dinas Tingkat I dan II serta Ujian Penyesuaian Ijazah menggunakan metode Computer Assisted Test (CAT) berlokasi di UPT BKN Gorontalo....
+              </div>
+
+              <div class="read-more mt-auto align-self-end">
+                <a href="blog-details.html">Selanjutnya</a>
+              </div>
+
+            </article>
+          </div><!-- End post list item -->
+
+          <div class="col-lg-4">
+            <article class="d-flex flex-column">
+
+              <div class="post-img">
+                <img src="assets/img/bg-content/berita/ags2025/udin29ags.png" alt="" class="img-fluid">
+              </div>
+
+              <h2 class="title">
+                <a href="blog-details.html">PELAKSANAAN UJIAN DINAS TINGKAT I BNN TAHUN 2025</a>
+              </h2>
+
+              <div class="meta-top">
+                <ul>
+                  <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>29 Agustus, 2025</a></li>
+                </ul>
+              </div>
+
+              <div class="content">
+                <p>
+                  Gorontalo, Jum’at 29 Agustus 2025, Badan Kepegawaian Negara (BKN) memfasilitasi Ujian Dinas Tingkat I bagi PNS di Lingkungan Badan Narkotika Nasional (BNN). Pelaksanaan Ujian Dinas dilaksanakan secara serentak berskala nasional di seluruh Indonesia meliputi titik lokasi ujian di Kantor BKN Pusat, Kantor Regional BKN, dan Kantor UPT BKN....
                 </p>
               </div>
 

@@ -9,10 +9,10 @@
       <nav id="navmenu" class="navmenu">
         <ul>
           <li><a href="/home" class="active">Beranda</a></li>
-          <li><a href="portofolio" class="active">Portofolio</a></li>
           <li class="dropdown"><a href="#"><span>Profil</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
                 <li><a href="/sejarah">Sejarah</a></li>
+                <li><a href="/portofolio">Portofolio</a></li>
                 <li><a href="/tupoksi">Tupoksi</a></li>
             </ul>
           </li>
