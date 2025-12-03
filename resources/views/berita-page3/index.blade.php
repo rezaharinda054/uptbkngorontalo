@@ -23,23 +23,23 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/nov2025/udin5nov.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/ags2025/kunjungan21ags.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                  <a href="#">UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</a>
+                  <a href="#">KUNJUNGAN KERJA KEPALA KANREG XI BKN MANADO di UPT BKN GORONTALO</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>5 November, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>22 Agustus, 2025</a></li>
                 </ul>
               </div>
 
               <div class="content">
                 <p>
-                  Gorontalo, 5 November 2025 — UPT BKN Gorontalo memfasilitasi pelaksanaan Ujian Dinas dan Ujian Penyesuaian Kenaikan Pangkat (UPKP) bagi Pegawai Negeri Sipil (PNS) di Lingkungan...
+                  Kepala Kanreg XI BKN, Akhmad Syauki melakukan kunjungan ke Kantor UPT BKN Gorontalo pada Kamis 21 Agustus 2025. Kunjungan ini disambut oleh Kepala UPT BKN Gorontalo, Iskandar Zulkarnain Hadju dalam rangka pengarahan kepada pegawai sekaligus pininjauan pelaksanaan CACT yang sedang berlangsung di Laboratorium CAT UPT BKN Gorontalo...
                 </p>
               </div>
 
@@ -54,23 +54,23 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/cact31okt.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/ags2025/cact21ags.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a>
+                <a href="blog-details.html">Badan Kepegawaian Negara (BKN) memfasilitasi pelaksanaan Penilaian Kompetensi Manajerial dan Sosial Kultural, Literasi Digital, Dan Emerging Skills</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>31 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>21 Agustus, 2025</a></li>
                 </ul>
               </div>
 
               <div class="content">
                 <p>
-                  Gorontalo, 31 Oktober 2025 – UPT BKN Gorontalo melaksanakan fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi Pegawai Negeri Sipil (PNS) di Lingkungan Kementerian Kependudukan dan Pembangunan Keluarga (Kemendukbangga) serta Badan Karantina Indonesia (Barantin)...
+                  Gorontalo- Badan Kepegawaian Negara (BKN) memfasilitasi pelaksanaan Penilaian Kompetensi Manajerial dan Sosial Kultural, Literasi Digital, Dan Emerging Skills dengan metode Computer Assisted Competency Test (CACT) BKN bagi Pegawai Negeri Sipil (PNS) di Lingkungan Pemerintah Kota Gorontalo yang bertempat di Ruang Laboratorium...
                 </p>
               </div>
 
@@ -85,23 +85,23 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/udin30okt.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/ags2025/cact5ags.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a>
+                <a href="blog-details.html">Penilaian Kompetensi manajerial sosial dan kultural dengan computer assisted competency test (cact)</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>31 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>5 Agustus, 2025</a></li>
                 </ul>
               </div>
 
               <div class="content">
                 <p>
-                  30 Oktober 2025, UPT BKN Gorontalo kembali menyelenggarakan Ujian Dinas Tingkat I, Tingkat II, dan Ujian Penyesuaian Ijazah bagi Pegawai Negeri Sipil (PNS) di Lingkungan Pemerintah Kabupaten Pohuwato. Kegiatan ini diikuti oleh 48 peserta dan menggunakan metode Computer Assisted Test (CAT) BKN...
+                  Selasa, 5 Agustus 2025. UPT BKN Gorontalo memfasilitasi pelaksanaan penilaian kompetensi Manajerial Sosial dan Kultural dengan Computer Assisted Competency Test (CACT) BKN bagi PNS di lingkungan Badan Nasional Pencarian dan Pertolongan (BASARNAS)...
                 </p>
               </div>
 
@@ -116,24 +116,23 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/lptui24okt.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/ags2025/cat1ags.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a>
+                <a href="blog-details.html">Pelaksanaan Uji Kompetensi Teknis di Lingkungan Kementerian HAM berbasis CAT BKN menggunakan aplikasi MST di UPT BKN Gorontalo</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>24 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>1 Agustus, 2025</a></li>
                 </ul>
               </div>
 
               <div class="content">
                 <p>
-                  23 Oktober 2025, Lembaga Psikologi Terapan Universitas Indonesia (LPTUI) melaksanakan Uji Coba Tes Kognitif dan Morscale yang diikuti oleh peserta dari Pemerintah Provinsi Gorontalo, Pemerintah Kota Gorontalo, dan Pemerintah Kabupaten Bone Bolango.
-                  Kegiatan ini diselenggarakan...
+                  1 Agustus 2025, UPT BKN Gorontalo memfasilitasi Pelaksanaan Uji Kompetensi Teknis di Bidang Hak Asasi Manusia (HAM) di Lingkungan Kementerian HAM dengan Metode CAT BKN. Titik lokasi ujian bertempat di ruang Laboratorium CAT UPT BKN Gorontalo serta menggunakan aplikasi Manajemen Seleksi Terintegrasi (MST)...
                 </p>
               </div>
 
@@ -148,23 +147,23 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/ikd24okt.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/jul2025/cat29jul.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</a>
+                <a href="blog-details.html">BPK RI, Kejaksaan RI, BPS RI, dan Setjen DPD RI melaksanakan Ujian Dinas dan Kenaikan Pangkat dengan Sistem CAT</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>24 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>29 Juli, 2025</a></li>
                 </ul>
               </div>
 
               <div class="content">
                 <p>
-                  Dalam rangka mendukung percepatan peningkatan Nilai Indeks Kualitas Data (IKD) Aparatur Sipil Negara (ASN) serta memperkuat pemenuhan Database Profil ASN secara komprehensif, Direktorat Pengeloaan Data dan Penyajian Informasi (PDPI) ASN Badan Kepegawaian Negara menyelenggarakan kegiatan...
+                  29 Juli 2025, UPT BKN Gorontalo memfasilitasi pelaksanaan Ujian Dinas Tingkat I, Tingkat II, dan Ujian Penyesuaian Kenaikan Pangkat (UPKP) bagi PNS secara serentak. Terdapat sembilan peserta yang mengikuti pelaksanaan ujian yaitu 3 peserta dari Badan Pemeriksa Keuangan , 4 peserta dari Kejaksaan, 1 peserta dari Badan Pusat Statistika, dan 1 peserta dari Setjen DPD RI...
               </div>
 
               <div class="read-more mt-auto align-self-end">
@@ -178,23 +177,23 @@
             <article class="d-flex flex-column">
 
               <div class="post-img">
-                <img src="assets/img/bg-content/berita/okt2025/cat9okt.png" alt="" class="img-fluid">
+                <img src="assets/img/bg-content/berita/jul2025/cact9juli.png" alt="" class="img-fluid">
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah</a>
+                <a href="blog-details.html">Kolaborasi UPT BKN Gorontalo dan Badan Karantina Indonesia pada Pelaksanaan Penilaian MANSOSKUL dengan sistem CACT (Computer Assisted Competency Test)</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>9 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>9 Juli, 2025</a></li>
                 </ul>
               </div>
 
               <div class="content">
                 <p>
-                  Gorontalo, 6 Oktober 2025, Badan Kepegawaian Negara telah memfasilitasi pelaksanaan Ujian Dinas Dan Ujian Penyesuaian Ijazah di Lingkungan Pemerintah Kabupaten Bone Bolango. Ujian dimulai pukul 09.00 WITa. Ujian Dinas Tingkat I dan II di Lingkungan Kabupaten Bone Bolango Tahun 2025 dihadiri oleh...
+                  Rabu 9 Juli 2025, UPT BKN Gorontalo bersama Badan Karantina Indonesia melangsungkan Uji Kompetensi Manajerial Sosial dan Kultural dengan menggunakan metode Computer Assisted Competency Test (CACT) yang berlokasi di Lab CAT UPT BKN Gorontalo. Kegiatan ini diikuti oleh lima peserta ASN dari lingkungan BARANTIN...
                 </p>
               </div>
 
@@ -220,8 +219,7 @@
             <li><a href="berita">1</a></li>
             <li><a href="berita-page2">2</a></li>
             <li><a href="berita-page3" class="active">3</a></li>
-            <li><a href="berita-page4">4</a></li>
-            <li><a href="berita-page4"><i class="bi bi-chevron-right"></i></a></li>
+            <li><a href="#"><i class="bi bi-chevron-right"></i></a></li>
           </ul>
         </div>
       </div>

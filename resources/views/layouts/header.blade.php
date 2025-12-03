@@ -20,7 +20,6 @@
             <ul>
                 <li><a href="berita">Berita</a></li>
                 <li><a href="pengumuman">Pengumuman</a></li>
-                <li><a href="video">Video</a></li>
             </ul>
           </li>
           <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>

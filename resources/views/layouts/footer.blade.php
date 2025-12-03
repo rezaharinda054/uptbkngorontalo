@@ -44,6 +44,10 @@
   <!-- Main JS File -->
   <script src="assets/js/main.js"></script>
 
+  <!-- Page level custom scripts -->
+    <script src="assets/js/demo/chart-area-demo.js"></script>
+    <script src="assets/js/demo/chart-pie-demo.js"></script>
+
 </body>
 
 </html>

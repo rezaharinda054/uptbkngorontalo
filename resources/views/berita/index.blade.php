@@ -220,7 +220,6 @@
             <li><a href="berita" class="active">1</a></li>
             <li><a href="berita-page2">2</a></li>
             <li><a href="berita-page3">3</a></li>
-            <li><a href="berita-page4">4</a></li>
             <li><a href="berita-page2"><i class="bi bi-chevron-right"></i></a></li>
           </ul>
         </div>
