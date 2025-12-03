@@ -1,3 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SB Admin 2 - Dashboard</title>
+
+    <!-- Custom fonts for this template-->
+    <link href="assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link
+        href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
+
+</head>
 <main class="main">
 
     <!-- Page Title -->
@@ -13,19 +33,104 @@
       </div>
     </div><!-- End Page Title -->
 
-    <!-- Starter Section Section -->
-    <section id="starter-section" class="starter-section section">
+    <section id="blog-posts" class="blog-posts section p-5">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Starter Section</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+      <div class="row text-center">
+        <h2 class="huptikm">IKM TAHUN 2025</h2>
+        <!-- Area Chart -->
+            <div class="col-xl-8 col-lg-7">
+                <div class="card shadow mb-4">
+                    <!-- Card Header - Dropdown -->
+                    <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                        <h6 class="m-0 font-weight-bold text-primary">Statistik Indeks Kepuasan Masyarakat UPSCPKP BKN Gorontalo</h6>
+                        <div class="dropdown no-arrow">
+                          <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
+                              data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                          </a>
+                          <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                              aria-labelledby="dropdownMenuLink">
+                              <div class="dropdown-header">Dropdown Header:</div>
+                              <a class="dropdown-item" href="#">Action</a>
+                              <a class="dropdown-item" href="#">Another action</a>
+                              <div class="dropdown-divider"></div>
+                              <a class="dropdown-item" href="#">Something else here</a>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Card Body -->
+                      <div class="card-body">
+                        <div class="chart-area">
+                          <canvas id="myAreaChart"></canvas>
+                        </div>
+                      </div>
+                    </div>
+                </div>
 
-      <div class="container" data-aos="fade-up">
-        <p>Use this page as a starter for your own custom pages.</p>
-      </div>
-
-    </section><!-- /Starter Section Section -->
+                <!-- Pie Chart -->
+                        <div class="col-xl-4 col-lg-5">
+                          
+                            <div class="card shadow mb-4">
+                              
+                                <!-- Card Header - Dropdown -->
+                                <div
+                                    class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
+                                    <h6 class="m-0 font-weight-bold text-primary">Presentase Indeks</h6>
+                                    <div class="dropdown no-arrow">
+                                        <a class="dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
+                                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <i class="fas fa-ellipsis-v fa-sm fa-fw text-gray-400"></i>
+                                        </a>
+                                        <div class="dropdown-menu dropdown-menu-right shadow animated--fade-in"
+                                            aria-labelledby="dropdownMenuLink">
+                                            <div class="dropdown-header">Dropdown Header:</div>
+                                            <a class="dropdown-item" href="#">Action</a>
+                                            <a class="dropdown-item" href="#">Another action</a>
+                                            <div class="dropdown-divider"></div>
+                                            <a class="dropdown-item" href="#">Something else here</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Card Body -->
+                                <div class="card-body">
+                                    <div class="chart-pie pt-4 pb-2">
+                                        <canvas id="myPieChart"></canvas>
+                                    </div>
+                                    <div class="mt-4 text-center small">
+                                        <span class="mr-2">
+                                            <i class="fas fa-circle text-primary"></i> Sangat Puas
+                                        </span>
+                                        <span class="mr-2">
+                                            <i class="fas fa-circle text-success"></i> Puas
+                                        </span>
+                                        <span class="mr-2">
+                                            <i class="fas fa-circle text-info"></i> Cukup Puas
+                                        </span>
+                                        <span class="mr-2">
+                                            <i class="fas fa-circle text-info"></i> Tidak Puas
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>                 
+    </section>
 
 </main>
+
+<!-- Bootstrap core JavaScript-->
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Core plugin JavaScript-->
+    <script src="assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for all pages-->
+    <script src="assets/js/sb-admin-2.min.js"></script>
+
+    <!-- Page level plugins -->
+    <script src="assets/vendor/chart.js/Chart.min.js"></script>
+
+    <!-- Page level custom scripts -->
+    <script src="assets/js/demo/chart-area-demo.js"></script>
+    <script src="assets/js/demo/chart-pie-demo.js"></script>
