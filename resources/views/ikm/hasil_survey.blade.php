@@ -33,7 +33,7 @@
       </div>
     </div><!-- End Page Title -->
 
-    <section id="blog-posts" class="blog-posts section p-5">
+    <section id="blog-posts" class="blog-posts section p-5" style="background-image: url(assets/img/bg-content/bg-content.png);">
 
       <div class="row text-center">
         <h2 class="huptikm">IKM TAHUN 2025</h2>

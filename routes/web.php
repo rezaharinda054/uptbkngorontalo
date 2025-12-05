@@ -147,6 +147,22 @@ Route::get('/ikm', function () {
     ]);
 });
 
+// Berita Oktober 2025
+Route::get('/berita-5nov2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-5nov2025/udin5nov'
+    ]);
+});
+
+// Berita November 2025 
+Route::get('/berita-5nov2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-5nov2025/udin5nov'
+    ]);
+});
+
+
+
 
 
 

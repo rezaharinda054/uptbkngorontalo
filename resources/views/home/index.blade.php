@@ -48,7 +48,7 @@
       <section id="portfolio" class="portfolio section" style="background-image: url(assets/img/bg-content/bg-content.png);">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
-        <h2 class="h2upt">INFO PUBLIK TERBARU</h2>
+        <h2 class="huptikm">INFO PUBLIK TERBARU</h2>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -65,9 +65,8 @@
               <img src="assets/img/bg-content/berita/nov2025/udin5nov.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</p>
+                <p class="text-danger"><a href="#">UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</a></p>
                 <a href="assets/img/bg-content/berita/nov2025/udin5nov.png" title="UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/2025/09/12/fasilitasi-ujian-penyesuaian-kenaikan-pangkat-di-lingkungan-kemendukbangga-bkkbn-bpk-di-titik-lokasi-upt-bkn-gorontalo/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -75,9 +74,8 @@
               <img src="assets/img/bg-content/berita/okt2025/cact31okt.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</p>
-                <a href="assets/img/bg-content/berita/okt2025/lptui24okt.png" title="Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/kegiatan/cat/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                <p class="text-danger"><a href="#">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a></p>
+                <a href="assets/img/bg-content/berita/okt2025/cact31okt.png" title="Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -85,9 +83,8 @@
               <img src="assets/img/bg-content/berita/okt2025/udin30okt.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</p>
+                <p class="text-danger"><a href="#">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a></p>
                 <a href="assets/img/bg-content/berita/okt2025/udin30okt.png" title="Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/kegiatan/cat/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
             
@@ -95,9 +92,8 @@
               <img src="assets/img/bg-content/berita/okt2025/lptui24okt.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</p>
+                <p class="text-danger"><a href="#">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a></p>
                 <a href="assets/img/bg-content/berita/okt2025/lptui24okt.png" title="LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/kegiatan/cat/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -105,9 +101,8 @@
               <img src="assets/img/bg-content/berita/okt2025/ikd24okt.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</p>
+                <p class="text-danger"><a href="#">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</a></p>
                 <a href="assets/img/bg-content/berita/okt2025/ikd24okt.png" title="Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/category/kegiatan/cat/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -115,19 +110,18 @@
               <img src="assets/img/bg-content/berita/okt2025/cat9okt.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah</p>
+                <p class="text-danger"><a href="#">Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah</a></p>
                 <a href="assets/img/bg-content/berita/okt2025/cat9okt.png" title="Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/2022/07/06/ujian-dinas-tingkat-i-bnn-tahun-2022/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                
               </div>
             </div><!-- End Portfolio Item -->
-
+            
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
               <img src="assets/img/bg-content/berita/okt2025/pancasila9okt.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai</p>
+                <p class="text-danger"><a href="#">Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai</a></p>
                 <a href="assets/img/bg-content/berita/okt2025/pancasila9okt.png" title="Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/2022/07/06/ujian-dinas-tingkat-i-bnn-tahun-2022/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -135,9 +129,8 @@
               <img src="assets/img/bg-content/berita/sep2025/udin25sep.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Berita</h4>
-                <p class="text-danger">Pelaksanaan Ujian Dinas & UPKP di Lingkungan KEMENDIKTI SAINTEK & KEMENTAN, serta Penyerahan Surat Tugas Pegawai</p>
+                <p class="text-danger"><a href="#">Pelaksanaan Ujian Dinas & UPKP di Lingkungan KEMENDIKTI SAINTEK & KEMENTAN, serta Penyerahan Surat Tugas Pegawai</a></p>
                 <a href="assets/img/bg-content/berita/sep2025/udin25sep.png" title="Pelaksanaan Ujian Dinas & UPKP di Lingkungan KEMENDIKTI SAINTEK & KEMENTAN, serta Penyerahan Surat Tugas Pegawai" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/2022/07/06/ujian-dinas-tingkat-i-bnn-tahun-2022/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
               </div>
             </div><!-- End Portfolio Item -->
 
@@ -145,22 +138,12 @@
               <img src="assets/img/portfolio/pengumuman1.png" class="img-fluid img-box" alt="">
               <div class="portfolio-info">
                 <h4 class="text-primary">Pengumuman</h4>
-                <p class="text-danger">Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo</p>
-                <a href="assets/img/portfolio/pengumuman1.png" title="Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                <a href="https://gorontalo.bkn.go.id/blog/index.php/2025/08/07/jadwal-seleksi-kompetensi-dasarsekolah-kedinasan-tahun-2025titik-lokasi-upt-bkn-gorontalo/" title="Lihat" class="details-link"><i class="bi bi-link-45deg"></i></a>
-              </div>
-            </div><!-- End Portfolio Item -->
-
+                <p class="text-danger"><a href="#">Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo</a></p>
+                <div>
+                  <a href="assets/img/portfolio/pengumuman1.png" title="Jadwal Seleksi Kompetensi Dasar Sekolah Kedinasan Tahun 2025 Titik Lokasi UPT BKN Gorontalo" data-gallery="portfolio-gallery-product" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                </div>
           </div><!-- End Portfolio Container -->
-
-            <div class="container">
-                  <div class="text-center">
-                    <a class="btn btn-info h2upt" href="#" style="margin-top: 50px;">SELANJUTNYA</a>
-                  </div>
-            </div>
-
         </div>
-
       </div>
 
     </section><!-- /Portfolio Section -->

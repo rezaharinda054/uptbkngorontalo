@@ -27,7 +27,7 @@
               </div>
 
               <h2 class="title">
-                  <a href="#">UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</a>
+                  <a href="berita-5nov2025">UPSCPKP BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</a>
               </h2>
 
               <div class="meta-top">
