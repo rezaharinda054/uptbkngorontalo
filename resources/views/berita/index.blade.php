@@ -44,7 +44,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-5nov2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -58,7 +58,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a>
+                <a href="berita-udin31okt2025">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a>
               </h2>
 
               <div class="meta-top">
@@ -75,7 +75,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-udin31okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -89,13 +89,13 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a>
+                <a href="berita-udin30okt2025">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>31 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>30 Oktober, 2025</a></li>
                 </ul>
               </div>
 
@@ -106,7 +106,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-udin30okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -120,13 +120,13 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a>
+                <a href="berita-lptui23okt2025">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>24 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>23 Oktober, 2025</a></li>
                 </ul>
               </div>
 
@@ -138,7 +138,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-lptui23okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -152,7 +152,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</a>
+                <a href="berita-ikd24okt2025">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</a>
               </h2>
 
               <div class="meta-top">
@@ -168,7 +168,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-ikd24okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -182,7 +182,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah</a>
+                <a href="berita-udin9okt2025">Kolaborasi UPT BKN Gorontalo dan Pemerintah Kabupaten Bone Bolango pada Kegiatan Ujian Dinas Dan Ujian Penyesuaian Ijazah</a>
               </h2>
 
               <div class="meta-top">
@@ -199,7 +199,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-udin9okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -219,7 +219,7 @@
             <li><a href="#"><i class="bi bi-chevron-left"></i></a></li>
             <li><a href="berita" class="active">1</a></li>
             <li><a href="berita-page2">2</a></li>
-            <li><a href="berita-page3">3</a></li>
+            {{-- <li><a href="berita-page3">3</a></li> --}}
             <li><a href="berita-page2"><i class="bi bi-chevron-right"></i></a></li>
           </ul>
         </div>

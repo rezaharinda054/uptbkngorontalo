@@ -147,10 +147,73 @@ Route::get('/ikm', function () {
     ]);
 });
 
-// Berita Oktober 2025
-Route::get('/berita-5nov2025', function () {
+// Berita Agustus 2025
+Route::get('/berita-udin29ags2025', function () {
     return view('layouts/wrapper',[
-        'content' => 'berita-5nov2025/udin5nov'
+        'content' => 'berita-udin29ags2025/udin29ags'
+    ]);
+});
+
+// Berita September 2025
+Route::get('/berita-udin9sep2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-udin9sep2025/udin9sep'
+    ]);
+});
+
+Route::get('/berita-cat10sep2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-cat10sep2025/cat10sep'
+    ]);
+});
+
+Route::get('/berita-ptbstmkg16sep2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-ptbstmkg16sep2025/ptbstmkg16sep'
+    ]);
+});
+
+Route::get('/berita-udin17sep2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-udin17sep2025/udin17sep'
+    ]);
+});
+
+
+// Berita Oktober 2025
+Route::get('/berita-pancasila1okt2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-pancasila1okt2025/pancasila1okt'
+    ]);
+});
+
+Route::get('/berita-udin9okt2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-udin9okt2025/udin9okt'
+    ]);
+});
+
+Route::get('/berita-ikd24okt2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-ikd24okt2025/ikd24okt'
+    ]);
+});
+
+Route::get('/berita-lptui23okt2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-lptui23okt2025/lptui23okt'
+    ]);
+});
+
+Route::get('/berita-udin30okt2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-udin30okt2025/udin30okt'
+    ]);
+});
+
+Route::get('/berita-udin31okt2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'berita-udin31okt2025/udin31okt'
     ]);
 });
 

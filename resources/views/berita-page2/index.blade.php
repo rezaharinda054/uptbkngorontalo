@@ -27,13 +27,13 @@
               </div>
 
               <h2 class="title">
-                  <a href="#">Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai</a>
+                  <a href="berita-pancasila1okt2025">Dalam rangka peringatan Hari Kesaktian Pancasila 1 Oktober 2025, Upt Bkn Gorontalo menyelenggarakan upacara yang diikuti oleh seluruh pegawai</a>
               </h2>
 
               <div class="meta-top">
                 <ul>
                   <li class="d-flex align-items-center"><i class="bi bi-folder"></i> <a href="berita">Berita</a></li>
-                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>9 Oktober, 2025</a></li>
+                  <li class="d-flex align-items-center"><i class="bi bi-clock"></i>1 Oktober, 2025</a></li>
                 </ul>
               </div>
 
@@ -44,7 +44,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-pancasila1okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -58,7 +58,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Pelaksanaan Ujian Dinas & UPKP di Lingkungan KEMENDIKTI SAINTEK & KEMENTAN, serta Penyerahan Surat Tugas Pegawai</a>
+                <a href="berita-udin17sep2025">Pelaksanaan Ujian Dinas & UPKP di Lingkungan KEMENDIKTI SAINTEK & KEMENTAN, serta Penyerahan Surat Tugas Pegawai</a>
               </h2>
 
               <div class="meta-top">
@@ -75,7 +75,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-udin17sep2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -89,7 +89,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Pelaksanaan Seleksi Lanjutan Penerimaan Taruna Baru (PTB) Sekolah Tinggi Meteorologi, Klimatologi, dan Geofisika (STMKG) TA. 2025</a>
+                <a href="berita-ptbstmkg16sep2025">Pelaksanaan Seleksi Lanjutan Penerimaan Taruna Baru (PTB) Sekolah Tinggi Meteorologi, Klimatologi, dan Geofisika (STMKG) TA. 2025</a>
               </h2>
 
               <div class="meta-top">
@@ -106,7 +106,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-ptbstmkg16sep2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -120,7 +120,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Fasilitasi Ujian Penyesuaian Kenaikan Pangkat di Lingkungan Kemendukbangga/BKKBN & BPK di Titik Lokasi UPT BKN Gorontalo</a>
+                <a href="berita-cat10sep2025">Fasilitasi Ujian Penyesuaian Kenaikan Pangkat di Lingkungan Kemendukbangga/BKKBN & BPK di Titik Lokasi UPT BKN Gorontalo</a>
               </h2>
 
               <div class="meta-top">
@@ -137,7 +137,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-cat10sep2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -151,7 +151,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo</a>
+                <a href="berita-udin9sep2025">Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo</a>
               </h2>
 
               <div class="meta-top">
@@ -167,7 +167,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-udin9sep2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -181,7 +181,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">PELAKSANAAN UJIAN DINAS TINGKAT I BNN TAHUN 2025</a>
+                <a href="berita-udin29ags2025">PELAKSANAAN UJIAN DINAS TINGKAT I BNN TAHUN 2025</a>
               </h2>
 
               <div class="meta-top">
@@ -198,7 +198,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-udin29ags2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -218,8 +218,9 @@
             <li><a href="berita"><i class="bi bi-chevron-left"></i></a></li>
             <li><a href="berita">1</a></li>
             <li><a href="berita-page2" class="active">2</a></li>
-            <li><a href="berita-page3">3</a></li>
-            <li><a href="berita-page3"><i class="bi bi-chevron-right"></i></a></li>
+            {{-- <li><a href="berita-page3">3</a></li> --}}
+            <li><a href="#"><i class="bi bi-chevron-right"></i></a></li>
+            {{-- <li><a href="berita-page3"><i class="bi bi-chevron-right"></i></a></li> --}}
           </ul>
         </div>
       </div>
