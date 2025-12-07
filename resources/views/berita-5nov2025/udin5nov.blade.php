@@ -69,7 +69,7 @@
                         <div class="swiper-wrapper align-items-center">
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/ba.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/nov2025/1.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
@@ -131,32 +131,24 @@
               <div class="post-item">
                 <img src="assets/img/bg-content/berita/okt2025/ba31.jpeg" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a></h4>
+                  <h4><a href="berita-udin31okt2025">Fasilitasi Uji Kompetensi Manajerial, Sosial, dan Kultural bagi PNS Kemendukbangga dan Barantin</a></h4>
                   <time datetime="31-10-2025">31, Oktober 2025</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="assets/img/blog/blog-recent-3.jpg" alt="" class="flex-shrink-0">
+                <img src="assets/img/bg-content/berita/okt2025/udin30okt/1.jpg" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a></h4>
+                  <h4><a href="berita-udin30okt2025">Fasilitasi Pelaksanaan Ujian Dinas Tingkat I, II & UPKP di Lingkungan Pemerintah Kabupaten Pohuwato</a></h4>
                   <time datetime="30-10-2025">30, Oktober 2025</time>
                 </div>
               </div><!-- End recent post item-->
 
               <div class="post-item">
-                <img src="assets/img/blog/blog-recent-4.jpg" alt="" class="flex-shrink-0">
+                <img src="assets/img/bg-content/berita/okt2025/lptui23okt/5.jpg" alt="" class="flex-shrink-0">
                 <div>
-                  <h4><a href="blog-details.html">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a></h4>
+                  <h4><a href="berita-lptui23okt2025">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a></h4>
                   <time datetime="23-10-2025">23, Oktober 2025</time>
-                </div>
-              </div><!-- End recent post item-->
-
-              <div class="post-item">
-                <img src="assets/img/blog/blog-recent-5.jpg" alt="" class="flex-shrink-0">
-                <div>
-                  <h4><a href="blog-details.html">Asistensi Peningkatan Indeks Kualitas Data ASN di Wilayah Kerja Kanreg XI BKN Manado</a></h4>
-                  <time datetime="24-10-2025">24, Oktober 2025</time>
                 </div>
               </div><!-- End recent post item-->
 
