@@ -25,35 +25,36 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="assets/img/bg-content/berita/ags2025/udin29ags.png" alt="" class="img-fluid">
+                  <img src="assets/img/bg-content/pengumuman/2025/juli/sekdin2.jpg" alt="" class="img-fluid">
                 </div>
 
-                <h2 class="title">UPT BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</h2>
+                <h2 class="title">Seleksi Calon Taruna Sekolah Kedinasan</h2>
 
                 <div class="meta-top">
                   <ul>
-                    <li class="d-flex align-items-center"><i class="bi bi-folder"></i></i> <a href="berita">Berita</a></li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i>29, Agustus 2025</time></a></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-folder"></i></i> <a href="pengumuman">Pengumuman</a></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i>1, Juli 2025</time></a></li>
                   </ul>
                 </div><!-- End meta top -->
 
                 <div class="content">
                   <p style="text-align:justify;">
-                    Gorontalo, Jum’at 29 Agustus 2025, Badan Kepegawaian Negara (BKN) memfasilitasi Ujian Dinas Tingkat I bagi PNS di Lingkungan Badan Narkotika Nasional (BNN). Pelaksanaan Ujian Dinas dilaksanakan secara serentak berskala nasional di seluruh Indonesia meliputi titik lokasi ujian di Kantor BKN Pusat, Kantor Regional BKN, dan Kantor UPT BKN.
+                    Kabar baik datang bagi para generasi muda yang bersemangat untuk mengabdi kepada negara. Pendaftaran Sekolah Kedinasan Tahun 2025 akan segera dibuka. Tahun ini, tersedia sebanyak 3.252 formasi yang tersebar pada tujuh kementerian/lembaga penyelenggara sekolah kedinasan.
+                  </p>
+                  <img src="assets/img/bg-content/pengumuman/2025/agustus/1.jpg" alt="" class="img-fluid">
+                  <p style="text-align:justify;">
+                    Kesempatan ini merupakan momen strategis bagi putra-putri terbaik bangsa untuk mengambil peran dalam membangun dan memajukan Republik Indonesia.
+                  </p>
+                  <p style="text-align:justify;">
+                    Oleh karena itu, kami mengajak seluruh masyarakat untuk menyampaikan informasi ini kepada keluarga, teman, dan lingkungan sekitar. Bisa jadi, informasi yang Anda bagikan menjadi jalan pembuka bagi masa depan seseorang.
+                  </p>
+                  <p style="text-align:justify;">
+                    Mari persiapkan diri sebaik mungkin dan ambil bagian dalam perjalanan menuju pengabdian bagi negeri.
+                  </p>
+                  <p style="text-align:justify;">
+                    Informasi lebih lanjut akan diumumkan secara resmi melalui seluruh media sosial BKN.
                   </p>
 
-                  <p style="text-align:justify;">
-                    Ujian Dinas Tingkat I diperuntukkan bagi PNS yang akan naik pangkat dari Golongan II/D (Pengatur Tingkat I) ke Golongan III/A (Penata Muda) setelah memenuhi syarat yang ditentukan.
-                  </p>
-
-                  <p style="text-align:justify;">
-                    Pelaksanaan Ujian Dinas Tingkat I dilaksanakan dengan metode Computer Assisted Tes (CAT) BKN guna memberikan jaminan efektivitas dan efisiensi pelaksanaan agar ujian berlangsung secara objektif dan transparan.
-                  </p>
-
-                  <p style="text-align:justify;">
-                    Khusus UPT BKN Gorontalo memfasilitasi sebanyak lima peserta. Pelaksanaan kegiatan dilangsungkan berdasarkan SOP mulai dari penyegelan ruang ujian di H-1, pembukaan segel ruang ujian, penyimpanan barang – barang tertentu di loker, body cheking menggunakan metal detector, proses registrasi, dan presentasi sebagai pemandu pelaksanaan ujian. Kegiatan diakhiri dengan adanya serah terima berita acara dari UPT BKN Gorontalo kepada perwakilan panitia Badan Narkotika Nasional Provinsi Gorontalo.
-                  </p>
-                  
                   <div>
                     <div class="col-lg-12">
                       <div class="portfolio-details-slider swiper init-swiper">
@@ -77,19 +78,15 @@
                         <div class="swiper-wrapper align-items-center">
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/ags2025/udin29ags/1.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/pengumuman/2025/juli/2.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/ags2025/udin29ags/2.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/pengumuman/2025/juli/3.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/ags2025/udin29ags/3.jpg" alt="" class="img-fluid">
-                          </div>
-
-                          <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/ags2025/udin29ags/4.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/pengumuman/2025/juli/4.jpg" alt="" class="img-fluid">
                           </div>
 
                         </div>
@@ -167,7 +164,7 @@
 
               <h3 class="widget-title">Tags</h3>
               <ul>
-                <li><a href="#">Ujian Dinas</a></li>
+                <li><a href="#">Sekolah Kedinasan</a></li>
                 <li><a href="#">CAT</a></li>
               </ul>
 

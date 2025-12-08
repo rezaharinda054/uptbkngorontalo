@@ -120,7 +120,7 @@
               <h3 class="widget-title">Informasi</h3>
               <ul class="mt-3">
                 <li><a href="berita">Berita <span>(12)</span></a></li>
-                <li><a href="berita">Pengumuman <span>(2)</span></a></li>
+                <li><a href="pengumuman">Pengumuman <span>(2)</span></a></li>
               </ul>
 
             </div><!--/Categories Widget -->

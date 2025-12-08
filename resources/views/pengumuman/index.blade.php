@@ -27,7 +27,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a>
+                <a href="berita-lptui23okt2025">LPTUI Gelar Uji Coba Tes Kognitif dan Morscale Bersama Pemerintah Daerah Gorontalo</a>
               </h2>
 
               <div class="meta-top">
@@ -45,7 +45,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="berita-lptui23okt2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -59,7 +59,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">JADWAL SELEKSI KOMPETENSI DASAR SEKOLAH KEDINASAN TAHUN 2025 TItik lokasi upt bkn gorontalo</a>
+                <a href="pengumuman-sekdin7ags2025">JADWAL SELEKSI KOMPETENSI DASAR SEKOLAH KEDINASAN TAHUN 2025 TItik lokasi upt bkn gorontalo</a>
               </h2>
 
               <div class="meta-top">
@@ -75,7 +75,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="pengumuman-sekdin7ags2025">Selanjutnya</a>
               </div>
 
             </article>
@@ -89,7 +89,7 @@
               </div>
 
               <h2 class="title">
-                <a href="blog-details.html">Seleksi Calon Taruna Sekolah Kedinasan</a>
+                <a href="pengumuman-sekdin1juli2025">Seleksi Calon Taruna Sekolah Kedinasan</a>
               </h2>
 
               <div class="meta-top">
@@ -106,7 +106,7 @@
               </div>
 
               <div class="read-more mt-auto align-self-end">
-                <a href="blog-details.html">Selanjutnya</a>
+                <a href="pengumuman-sekdin1juli2025">Selanjutnya</a>
               </div>
 
             </article>

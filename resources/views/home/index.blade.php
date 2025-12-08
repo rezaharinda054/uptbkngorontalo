@@ -161,7 +161,7 @@
             <div class="text-center">
               <h3 class="h2upt">Seberapa besar kemungkinan Anda merekomendasikan kami?</h3>
               <p class="h2upt">Kami siap mendengarkan. Beri tahu kami bagaimana kinerja kami dan apa yang bisa kami tingkatkan.</p>
-              <a class="cta-btn h2upt" href="#">ISI SURVEY IKM UPSCPKP BKN GORONTALO</a>
+              <a class="cta-btn h2upt" href="ikm-form">ISI SURVEY IKM UPSCPKP BKN GORONTALO</a>
             </div>
           </div>
         </div>

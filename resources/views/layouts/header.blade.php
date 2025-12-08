@@ -22,7 +22,7 @@
                 <li><a href="pengumuman">Pengumuman</a></li>
             </ul>
           </li>
-          <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+          {{-- <li class="dropdown"><a href="#"><span>Kegiatan</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
                 <li><a href="/ujian_kedinasan">Ujian Dinas</a></li>
                 <li><a href="/simulasi_cat_bkn">Simulasi CAT BKN</a></li>
@@ -33,11 +33,11 @@
                 <li><a href="/assesment">Assesment</a></li>
                 <li><a href="/pemanfaatan_stasiun_cat">Pemanfaatan Stasiun CAT</a></li>
             </ul>
-          </li>
+          </li> --}}
           <li class="dropdown"><a href="#"><span>Layanan Publik</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
             <ul>
                 <li><a href="layanan_konsultasi">Layanan Konsultasi</a></li>
-                <li><a href="standar_pelayanan_kanrexi_bkn">Standar Pelayanan Kanre XI BKN</a></li>
+                <li><a href="standar_pelayanan_kanregxi_bkn">Standar Pelayanan Kanre XI BKN</a></li>
                 <li><a href="maklumat_pelayanan_kanreg_xi">Maklumat Pelayanan Kanreg XI</a></li>
             </ul>
           </li>

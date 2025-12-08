@@ -25,25 +25,37 @@
               <article class="article">
 
                 <div class="post-img">
-                  <img src="assets/img/bg-content/berita/nov2025/udin5nov.png" alt="" class="img-fluid">
+                  <img src="assets/img/bg-content/berita/sep2025/udin9sep.png" alt="" class="img-fluid">
                 </div>
 
-                <h2 class="title">UPT BKN Gorontalo Selenggarakan Ujian Dinas dan UPKP Berbasis CAT MST bagi PNS Pemerintah Provinsi Gorontalo</h2>
+                <h2 class="title">Pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo</h2>
 
                 <div class="meta-top">
                   <ul>
-                    <li class="d-flex align-items-center"><i class="bi bi-folder"></i></i> <a href="berita">John Doe</a></li>
-                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i>5, November 2025</time></a></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-folder"></i></i> <a href="berita">Berita</a></li>
+                    <li class="d-flex align-items-center"><i class="bi bi-clock"></i>9, september 2025</time></a></li>
                   </ul>
                 </div><!-- End meta top -->
 
                 <div class="content">
                   <p style="text-align:justify;">
-                    Gorontalo, 5 November 2025 — UPT BKN Gorontalo memfasilitasi pelaksanaan Ujian Dinas dan Ujian Penyesuaian Kenaikan Pangkat (UPKP) bagi Pegawai Negeri Sipil (PNS) di Lingkungan Pemerintah Provinsi Gorontalo. Kegiatan ini diikuti oleh 24 peserta pada Ujian Dinas Tingkat I serta 5 peserta pada Ujian Penyesuaian Kenaikan Pangkat (UPKP). Ujian ini diselenggarakan dengan menggunakan metode Computer Assisted Test (CAT) melalui sistem Manajemen Seleksi Terintegrasi (MST) BKN.
+                    9 September 2025, Dalam rangka mewujudkan Manajemen Aparatur Sipil Negara yang berbasis Sistem Merit Badan Kepegawaian Negara (BKN) berkolaborasi bersama Pemerintah Kabupaten Boalemo melaksanakan Ujian Dinas Tingkat I dan II serta Ujian Penyesuaian Ijazah menggunakan metode Computer Assisted Test (CAT) berlokasi di UPT BKN Gorontalo.
                   </p>
 
                   <p style="text-align:justify;">
-                    Penyelenggaraan ujian dengan sistem CAT MST ini diharapkan dapat mewujudkan proses penilaian yang transparan, objektif, dan akuntabel, serta mampu mendorong peningkatan kompetensi ASN.
+                    Kegiatan ini merupakan kali kedua pengadaan Ujian Dinas Kenaikan Pangkat (UDKP) di Lingkungan Pemerintah Kabupaten Boalemo pada tahun 2025. Jumlah peserta UDKP pada kesempatan kedua ini diikuti oleh tiga puluh peserta. Rangkaian kegiatan berlangsung sejak pukul 09.30.- 13.00 WITA.
+                  </p>
+
+                  <p style="text-align:justify;">
+                    Seluruh rangkaian kegiatan Ujian Dinas Kenaikan Pangkat (UDKP) didasarkan pada Undang-Undang Nomor 20 Tahun 2023 tentang Aparatur Sipil Negara, Pasal 27 menyebutkan bahwa Manajemen ASN diselenggarakan berdasarkan sistem merit. Sistem Merit dapat diartikan sebagai kebijakan dan manajemen ASN yang berdasarkan pada kualifikasi, kompetensi, dan kinerja secara adil dan wajar dengan tanpa membedakan latar belakang politik, ras, warna kulit, agama, asal usul, jenis kelamin, status pernikahan, umur, atau kondisi kecacatan (Pasal 1 UU Republik Indonesia No. 5 Tahun 2014).
+                  </p>
+
+                  <p style="text-align:justify;">
+                    Manajemen ASN dengan sistem meritrokrasi pada hakekatnya bertujuan sebagai reformasi birokrasi untuk memastikan bahwa proses rekrutmen, seleksi, dan promosi ASN didasarkan pada kompetensi yang objektif, transparan, dan adil. Sistem merit sebagai kebijakan dan manajemen ASN yang didasarkan pada kualifikasi, kompetensi, dan kinerja yang dijalankan secara adil dan wajar. Hal ini berarti bahwa pengangkatan, penempatan, promosi, serta pemindahan pegawai harus mempertimbangkan kemampuan dan prestasi mereka, bukan berdasarkan faktor subjektif seperti hubungan pribadi atau afiliasi politik.
+                  </p>
+
+                  <p style="text-align:justify;">
+                    Dengan demikian penerapan sistem meritrokrasi diharapkan dapat menciptakan birokrasi yang lebih profesional, akuntabel, dan bebas dari diskriminasi, sehingga dapat meningkatkan kualitas pelayanan publik dan kepercayaan masyarakat terhadap pemerintah.
                   </p>
                   
                   <div>
@@ -69,19 +81,19 @@
                         <div class="swiper-wrapper align-items-center">
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/ba.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin9sep/1.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/pengarahan.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin9sep/2.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/regis.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin9sep/3.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/ujian.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin9sep/4.jpg" alt="" class="img-fluid">
                           </div>
 
                         </div>
@@ -109,7 +121,7 @@
               <h3 class="widget-title">Informasi</h3>
               <ul class="mt-3">
                 <li><a href="berita">Berita <span>(12)</span></a></li>
-                <li><a href="berita">Pengumuman <span>(2)</span></a></li>
+                <li><a href="pengumuman">Pengumuman <span>(2)</span></a></li>
               </ul>
 
             </div><!--/Categories Widget -->

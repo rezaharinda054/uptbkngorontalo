@@ -224,7 +224,26 @@ Route::get('/berita-5nov2025', function () {
     ]);
 });
 
+// Pengumuman Agustus 2025
+Route::get('/pengumuman-sekdin7ags2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'pengumuman-sekdin7ags2025/pengumuman-sekdin7ags'
+    ]);
+});
 
+// Pengumuman Juli 2025
+Route::get('/pengumuman-sekdin1juli2025', function () {
+    return view('layouts/wrapper',[
+        'content' => 'pengumuman-sekdin1juli2025/pengumuman-sekdin1juli'
+    ]);
+});
+
+// ikm-form
+Route::get('/ikm-form', function () {
+    return view('layouts/wrapper',[
+        'content' => 'ikm-form/ikmform'
+    ]);
+});
 
 
 

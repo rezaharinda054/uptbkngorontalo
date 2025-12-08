@@ -45,7 +45,7 @@
                   <p style="text-align:justify;">
                     Pada kesempatan ini turut hadir Kepala Kantor Regional XI BKN, Akhmad Syauki memantau langsung pelaksanaan ujian di titik lokasi UPT BKN Gorontalo. Selain itu, Kakanreg juga memberikan pengarahan terkait peningkatan kelengkapan fasilitas dan penyerahan surat tugas pada pegawai secara langsung.
                   
-                  <!-- <div>
+                  <div>
                     <div class="col-lg-12">
                       <div class="portfolio-details-slider swiper init-swiper">
 
@@ -68,26 +68,26 @@
                         <div class="swiper-wrapper align-items-center">
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/ba.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin17sep/1.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/pengarahan.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin17sep/2.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/regis.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin17sep/3.jpg" alt="" class="img-fluid">
                           </div>
 
                           <div class="swiper-slide">
-                            <img src="assets/img/bg-content/berita/nov2025/ujian.jpg" alt="" class="img-fluid">
+                            <img src="assets/img/bg-content/berita/sep2025/udin17sep/4.jpg" alt="" class="img-fluid">
                           </div>
 
                         </div>
                         <div class="swiper-pagination"></div>
                       </div>
                     </div>
-                  </div> -->
+                  </div>
 
                 </div><!-- End post content -->
 
@@ -108,7 +108,7 @@
               <h3 class="widget-title">Informasi</h3>
               <ul class="mt-3">
                 <li><a href="berita">Berita <span>(12)</span></a></li>
-                <li><a href="berita">Pengumuman <span>(2)</span></a></li>
+                <li><a href="pengumuman">Pengumuman <span>(2)</span></a></li>
               </ul>
 
             </div><!--/Categories Widget -->
